@@ -179,3 +179,6 @@ export default function Testing() {
     </section>
   );
 }
+
+
+// I have my 3 model .py files, i.e., inception.py, efficient.py and resnet.py, now help me create a directory where I can place them and run to build actual models which this testing component can actullay call, 
