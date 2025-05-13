@@ -3,31 +3,25 @@ import { Github, Linkedin, Mail } from 'lucide-react';
 
 const teamMembers = [
   {
-    name: "Pruthvi Raj Vadla",
-    role: "Lead Researcher",
-    bio: "Specializes in deep learning and computer vision. Focused on model architecture selection and implementation for this project.",
-    image: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=600",
-    linkedin: "#",
-    github: "#",
-    email: "mailto:pruthvi@example.com"
+   name: "Pruthvi Raj Vadla",
+    role: "software engineer",
+    bio: "Expert in software development and machine learning. Responsible for the overall architecture and implementation of the project.",
+    image: "./p.png",
   },
   {
-    name: "Harika Rani Bodduluri",
-    role: "Data Scientist",
-    bio: "Expert in data preprocessing and augmentation techniques. Responsible for dataset curation and optimization in this research.",
-    image: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=600",
-    linkedin: "#",
-    github: "#",
-    email: "mailto:harika@example.com"
+     name: "Harika Rani Bodduluri",
+    role: "Data Engineer",
+    bio: "Specializes in data engineering and machine learning. Responsible for data collection, preprocessing, and model training.",
+    image: "./h.png",
   },
   {
-    name: "G V S P Kumar Appisetti",
-    role: "ML Engineer",
-    bio: "Specializes in model evaluation and performance optimization. Led the experimental analysis and results interpretation.",
-    image: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=600",
-    linkedin: "#",
-    github: "#",
-    email: "mailto:kumar@example.com"
+  name: "G V S P Kumar Appisetti",
+    role: "full-stack developer",
+    bio: "Specializes in building scalable web applications and seamless user experiences. Responsible for integrating front-end and back-end systems to ensure smooth functionality.",
+    image: "./g.png",
+    linkedin: "https://www.linkedin.com/in/g-v-s-p-kumar-appisetti-b6a70829a/",
+    github: "https://github.com/Gurupavan5",
+    email: "gappisetti@lamar.edu"
   }
 ];
 
